@@ -661,7 +661,6 @@ footer ul {
   }
 
   .holder {
-    
     height: 70vh;
   }
 
@@ -675,7 +674,7 @@ footer ul {
     height: 70vh;
     background-position: center;
     background-repeat: no-repeat;
-    background-size:80vw;
+    background-size:90vw;
   }
 
   .arrows h1 {
@@ -775,7 +774,7 @@ footer ul {
     height: 70vh;
     background-position: center;
     background-repeat: no-repeat;
-    background-size:80vw;
+    background-size:90vw;
   }
 
   .exhibition-image {
