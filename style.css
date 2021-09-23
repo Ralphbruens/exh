@@ -387,14 +387,14 @@ footer ul {
   top: 0;
   left: 0;
   width: 10000vw;
-  height: 100vh;
+  height: 95vh;
   transition: left 0.35s;
 }
 
 .holder div {
   float: left;
   min-width: 50vw;
-  height: 100vh;
+  height: 95vh;
   background-position: center;
   background-repeat: no-repeat;
   background-size:contain;
