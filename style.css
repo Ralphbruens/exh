@@ -914,7 +914,7 @@ footer ul {
   }
 
   .header-container{
-    width:97vw;
+    min-width:95vw;
     height: auto;
   }
 
