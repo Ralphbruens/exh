@@ -710,7 +710,7 @@ footer ul {
   }
 
   .exhibition-title {
-    width: 100%;
+    width: 100vh;
     height:300px;
     margin: 0;
     padding: 10px;
