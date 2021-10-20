@@ -726,7 +726,7 @@ footer ul {
 
   .exhibition-title {
     width: 100vw;
-    height:300px;
+    height:200px;
     margin: 0;
     padding: 10px;
   }
@@ -868,6 +868,7 @@ footer ul {
 
   header {
     width:100vw;
+    height: max-content;
     padding: 7px 10px 10px 10px;
   }
 
