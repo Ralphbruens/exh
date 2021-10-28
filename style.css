@@ -37,8 +37,6 @@
     border-right: 2px solid black;
     
   }
-
-  
     
   }
 
@@ -727,10 +725,10 @@ footer ul {
   }
 
   .exhibition-title {
-    width: 100vw;
+    width: 95vw;
     height:200px;
     margin: 0;
-    padding: 10px;
+    padding-left: 10px;
   }
 
   .exhibition-title-container {
@@ -739,7 +737,7 @@ footer ul {
   }
   
   .exhibition-title-location {
-    width:100%;
+    width:95%;
     height:24%;
     font-size: 16px;
     font-family: Helvetica-extended, helvetica;
@@ -748,7 +746,7 @@ footer ul {
   }
   
   .exhibition-title-artist {
-    width:100%;
+    width:95%;
     height:max-content;
     font-size: 35px;
     line-height: 0.9em;
@@ -756,7 +754,7 @@ footer ul {
   }
   
   .exhibition-title-artist-2 {
-    width:100%;
+    width:95%;
     height:max-content;
     font-size: 30px;
     line-height: 0.9em;
@@ -764,7 +762,7 @@ footer ul {
   }
   
   .exhibition-title-event {
-    width:100%;
+    width:95%;
     height:50%;
     font-size: 35px;
     line-height: 0.9em;
