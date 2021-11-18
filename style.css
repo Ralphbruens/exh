@@ -105,6 +105,8 @@ header{
   z-index: 2;
 }
 
+
+
  .header-container{
    width:96vw;
    height: auto;
@@ -165,6 +167,15 @@ h1 {
  
 }
 
+.up-toggle {
+
+  float: right;
+  width: auto;
+  cursor: pointer;
+  z-index: 4;
+ 
+}
+
 .menu-toggle img {
   width: 42px;
 }
@@ -176,7 +187,7 @@ h1 {
   width: 100vw;
   height: 100vh;
   background-color: rgb(200, 255, 0);
-  z-index: 3;
+  z-index: 99;
   padding: 10px 15px 15px 15px;
   transition: top 0.35s ease;
 }
@@ -320,6 +331,47 @@ footer ul {
   flex-direction: row;
   padding-top: 100px;
   width: 100%;
+}
+
+.exhibiton-container-header{
+  padding: 10px 10px 10px 10px;
+  width: 96vw;
+  height: 10%;
+  color:#000;
+  background-color: #fff;
+  position: sticky;
+  top:0;
+  z-index: 10;
+  }
+
+  .past-container{
+    padding: 10px 10px 10px 10px;
+    width: 99vw;
+    height: 10%;
+    color:#000;
+    background-color:#fff;
+    position: sticky;
+    top:0;
+    z-index: 10;
+    }
+
+.past-container-first{
+    
+    padding: 10px 10px 10px 10px;
+    width: 100vw;
+    height: 10%;
+    color:#fff;
+    background-color: #000;
+    position: sticky;
+    top:0;
+    z-index: 10;
+ }
+
+.exhibition-row-past {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height:30%;
 }
 
 .exhibition-row {
@@ -627,6 +679,8 @@ footer ul {
   cursor: pointer;
   z-index: 4;
   }
+
+ 
 
   .product img {
     max-width: 700px;
@@ -936,6 +990,10 @@ footer ul {
 
   .exhibition-row-first {
     padding-top: 50px;
+  }
+
+  .exhibition-row-past {
+    color:black;
   }
 
   .page-image h1 {
