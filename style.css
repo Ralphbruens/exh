@@ -263,7 +263,7 @@ footer ul {
 .exhibition-title-location {
   width:100%;
   height:24%;
-  font-size: 24px;
+  font-size: 16px;
   font-family: Helvetica-extended, helvetica;
   text-align: right;
   text-transform: uppercase;
@@ -288,7 +288,7 @@ footer ul {
 .exhibition-title-event {
   width:100%;
   height:55%;
-  font-size: 65px;
+  font-size: 42px;
   line-height: 0.9em;
   font-family: Stencil-regular, helvetica;
 }
@@ -296,7 +296,7 @@ footer ul {
 .exhibition-title-event-2 {
   width:100%;
   height:40%;
-  font-size: 65px;
+  font-size: 42px;
   line-height: 0.9em;
   font-family: Stencil-regular, helvetica;
 }
@@ -304,7 +304,7 @@ footer ul {
 .exhibition-title-event-3 {
   width:100%;
   height:40%;
-  font-size: 50px;
+  font-size: 42px;
   line-height: 0.9em;
   font-family: Stencil-regular, helvetica;
 }
@@ -312,7 +312,7 @@ footer ul {
 .exhibition-title-date {
   
   height:auto;
-  font-size: 24px;
+  font-size: 16px;
   font-family: Helvetica-extended, helvetica;
   text-align: left;
   text-transform: uppercase;
@@ -793,7 +793,7 @@ footer ul {
   .exhibition-title-location {
     width:95%;
     height:24%;
-    font-size: 16px;
+    font-size: 14px;
     font-family: Helvetica-extended, helvetica;
     text-align: right;
     text-transform: uppercase;
@@ -802,7 +802,7 @@ footer ul {
   .exhibition-title-artist {
     width:95%;
     height:max-content;
-    font-size: 35px;
+    font-size: 32px;
     line-height: 0.9em;
     font-family: Stencil-regular, helvetica;
   }
@@ -810,7 +810,7 @@ footer ul {
   .exhibition-title-artist-2 {
     width:95%;
     height:max-content;
-    font-size: 30px;
+    font-size: 32px;
     line-height: 0.9em;
     font-family: Stencil-regular, helvetica;
   }
@@ -818,7 +818,7 @@ footer ul {
   .exhibition-title-event {
     width:95%;
     height:50%;
-    font-size: 35px;
+    font-size: 24px;
     line-height: 0.9em;
     font-family: Stencil-regular, helvetica;
   }
@@ -826,7 +826,7 @@ footer ul {
   .exhibition-title-event-2 {
     width:100%;
     height:40%;
-    font-size: 35px;
+    font-size: 24px;
     line-height: 0.9em;
     font-family: Stencil-regular, helvetica;
   }
@@ -834,7 +834,7 @@ footer ul {
   .exhibition-title-event-3 {
     width:100%;
     height:40%;
-    font-size: 30px;
+    font-size: 24px;
     line-height: 0.9em;
     font-family: Stencil-regular, helvetica;
   }
@@ -842,7 +842,7 @@ footer ul {
   .exhibition-title-date {
   
     height:auto;
-    font-size: 16px;
+    font-size: 14px;
     font-family: Helvetica-extended, helvetica;
     text-align: left;
     text-transform: uppercase;
